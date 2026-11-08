@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/eureisleonardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardoreisemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=reisleonardo)](https://github.com/stats-organization/github-stats-extended)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=reisleonardo&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=dark)
 </div>
 
 ##
