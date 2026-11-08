@@ -8,11 +8,8 @@
 
 ## 📊 Stats and most used languages
 <div align="center">
-  <a href="https://github.com/ReisLeonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReisLeonardo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReisLeonardo&layout=compact&langs_count=7&theme=highcontrast"/>
-
   <a href="https://www.youtube.com/@reisleonardo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eureisleonardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardoreisemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -20,4 +17,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=ReisLeonardo&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
 <br>
-🗓️ Last update: October 11th 2024
+🗓️ Last update: November 8th 2026
